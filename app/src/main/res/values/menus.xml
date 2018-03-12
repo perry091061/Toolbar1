@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MenuTitle" parent="AppTheme">
+        <item name="android:textSize">17sp</item>
+        <item name="android:fontFamily">sans-serif-bold</item>
+    </style>
+    <style name="MenuSubtitle" parent="AppTheme">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+</resources>
